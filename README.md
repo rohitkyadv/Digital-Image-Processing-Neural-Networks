@@ -4,15 +4,7 @@
 
 
 ## Task Description
-Our task is we must classify the objects in an image of the road for self-driving cars. This is not
-
-image classification, this is pixel-wise classification also known as image segmentation. Self-
-driving cars are not common yet because the AI is not good enough yet. This image
-
-segmentation problem is a large part of self-driving car AI. This dataset has 5 sets of 1000
-images and the corresponding segmentation images This dataset contains input images and
-labeled semantic segmentations captured via the CARLA self-driving car simulator. Dataset is
-available online on Kaggle at the link given below.
+Our task is we must classify the objects in an image of the road for self-driving cars. This is not image classification, this is pixel-wise classification also known as image segmentation. Self-driving cars are not common yet because the AI is not good enough yet. This image segmentation problem is a large part of self driving car AI. This dataset has 5 sets of 1000 images and the corresponding segmentation images This dataset contains input images and labeled semantic segmentations captured via the CARLA self-driving car simulator. Dataset is available online on Kaggle at the link given below.
 
 Data Source: https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge
 
